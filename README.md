@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Lutfan 🚀
 
-<!--
-**luthfan-tech/luthfan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Backend, Data Automation, and AI Context Pipeline Engineer. I focus on building high-performance server logic, lightning-fast web scrapers, and intuitive visual data architectures.
 
-Here are some ideas to get you started:
+❌ **Wrestling with over-complicated frontend setups.**  
+💡 **Building modular, production-ready backend systems and data streams.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Current Sprints & Monthly Highlights
+*   ⚡ **Streak Mode Activated:** Actively maintaining consistent daily micro-utility development streaks.
+*   🛡️ **API Security Framework:** Engineered a zero-dependency Express middleware for custom sliding-window client IP rate limiting.
+*   🤖 **LLM-Ready Context Pipes:** Architected automated TypeScript scrapers optimized for converting raw web data into clean markdown context for AI.
+*   🎨 **Interactive Logic:** Designing standalone node-based visual workflow ecosystems using native SVG paths.
+
+---
+
+### ⚙️ Tech Stack & Utilities
+*   **Languages:** Node.js (ES6+), TypeScript, Go, SQL, HTML5/CSS3, Python
+*   **Backbone Frameworks:** Express, FastAPI, Redis, PostgreSQL, Playwright
+*   **Architecture Specialties:** Memory-cached rate limiting, reverse proxies, automated scrapers, single-file developer tools
+
+---
+
+### 🤝 Connect with Me
+*   💼 **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/lutfan-mohammed-asif/)
