@@ -1,11 +1,9 @@
 <div align="center">
 
-# ⚡ Lutfan
+# Lutfan
 ### Backend, Data Automation, & AI Context Pipeline Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Aptifolio-121212?style=flat-square&logo=google-chrome&logoColor=white)](https://luthfan.aptifolio.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luthfanmak@gmail.com)
 
 ---
 
