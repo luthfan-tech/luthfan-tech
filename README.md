@@ -22,4 +22,4 @@ I am an incoming B.Tech Computer Science and Engineering student. I focus on cor
 
 ### 🤝 Connect with Me
 * 💼 **Professional Network:** [Connect on LinkedIn](https://www.linkedin.com/in/luthfan-mohammed-asif)
-* 🐦 **Real-Time Progress:** [Follow on X](https://x.com/)
+* 🐦 **Real-Time Progress:** [Follow on X](https://x.com/Luthfan_4)
