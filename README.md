@@ -1,5 +1,5 @@
 #Hello everyone,
-The name's Lutfan. I’ve completed my 12th and will be joining B.Tech in Computer Science. Over the past year I’ve been working on AI automation projects and actively pushing code to GitHub. I’m strong in Python and comfortable with SQL, basic networking, databases, and Kali Linux. Along with my degree, I’m aiming to grow into a cybersecurity enthusiast and eventually a penetration tester. I enjoy building projects, learning how to communicate better, and consistently improving myself. Thank you.
+The name's Lutfan. I’ve completed my 12th and will be joining B.Tech in Computer Science. Over the past year I’ve been working on AI automation projects and actively pushing code to GitHub. I’m strong in Python and comfortable with SQL, basic networking, databases, and Kali Linux. Along with my degree, I’m aiming to grow into a cybersecurity enthusiast and eventually a penetration tester. I enjoy building projects, learning how to communicate better, consistently improving myself and connecting with others.
 
 
 ## 🌐 Socials:
