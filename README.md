@@ -1,5 +1,8 @@
-#Hello everyone,
-The name's Lutfan. I’ve completed my 12th and will be joining B.Tech in Computer Science. Over the past year I’ve been working on AI automation projects and actively pushing code to GitHub. I’m strong in Python and comfortable with SQL, basic networking, databases, and Kali Linux. Along with my degree, I’m aiming to grow into a cybersecurity enthusiast and eventually a penetration tester. I enjoy building projects, learning how to communicate better, consistently improving myself and connecting with others.
+## About
+
+Hi, I’m **Lutfan Mohammed Asif**, a first-year B.Tech CSE student and self-driven developer. I’m currently focused on Python, basic full‑stack development, and cybersecurity fundamentals while building real projects and keeping a consistent GitHub streak.
+
+I’m comfortable with Python, SQL/MySQL, basic networking, databases, and Kali Linux, and I’m gradually exploring tools and concepts that will help me grow into a strong cybersecurity practitioner and, over time, a penetration tester. I care about clean, practical learning, clear communication, and using projects to document my progress rather than exaggerate it.
 
 
 ## 🌐 Socials:
