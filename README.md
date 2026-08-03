@@ -1,10 +1,6 @@
 # Hi there, I'm Lutfan 👋
 
 <p align="center">
-  <img src="image.jpg" alt="Profile Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1200&color=4F6B57&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Linux+%7C+Cybersecurity+%7C+Full-Stack+Learner;Building+practical+projects+and+documenting+my+progress" alt="Typing SVG" />
 </p>
 
