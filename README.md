@@ -1,6 +1,8 @@
 # Hi there, I'm Lutfan 👋
 
-https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU3NDIzMjAsIm5iZiI6MTc4NTc0MjAyMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODAzVDA3MjcwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmOWM3MTU2OWM1MTYzMjQ3YzVjODA1NWM1OGQ1MTMzZjhjMGMyOWU0MGQzOGQ5MzZhZmM2NzQ3MzU4NzEyMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.3s2pacUDegNpxRHzPQcRRgfsIbwuV4XRYIUkhVx4oH8
+<p align="center">
+  <img src="image.jpg" alt="Profile Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1200&color=4F6B57&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Linux+%7C+Cybersecurity+%7C+Full-Stack+Learner;Building+practical+projects+and+documenting+my+progress" alt="Typing SVG" />
