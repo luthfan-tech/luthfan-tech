@@ -1,4 +1,4 @@
-# Hi there, I'm Lutfan Mohammed Asif 👋
+# Hi there, I'm Lutfan 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1200&color=4F6B57&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Linux+%7C+Cybersecurity+%7C+Full-Stack+Learner;Building+practical+projects+and+documenting+my+progress" alt="Typing SVG" />
@@ -47,15 +47,6 @@ I care about clean, practical learning, clear communication, and using projects 
 - Networking and databases.
 - Cybersecurity fundamentals.
 - Building projects and maintaining consistency.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LutfanMohammedAsif&show_icons=true&theme=transparent&hide_border=true&title_color=4F6B57&icon_color=4F6B57&text_color=2F3E36&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LutfanMohammedAsif&layout=compact&theme=transparent&hide_border=true&title_color=4F6B57&text_color=2F3E36&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <i>Building patiently. Learning deeply. Shipping consistently.</i>
