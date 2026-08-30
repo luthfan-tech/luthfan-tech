@@ -24,7 +24,7 @@
 
 ## About Me
 
-I’m a self-driven Computer Science student from **Kolar, Karnataka, India**. I am building practical foundations in Python, web development, Git/GitHub, Linux, networking, data analysis, and web-security fundamentals.
+I’m a self-driven Computer Science student from ** Karnataka, India**. I am building practical foundations in Python, web development, Git/GitHub, Linux, networking, data analysis, and web-security fundamentals.
 
 My long-term goal is to become a **full-stack developer who builds secure, useful web applications**. I prefer honest progress: building small projects, documenting what I learn, testing my work, and improving consistently.
 
